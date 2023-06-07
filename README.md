@@ -1,2 +1,2 @@
-# Django-Project-Ecommerce-Kelompok5
-This is for Group Project
+# ecommerce-django-project
+Belajar membuat ecommerce website dengan menggunaakan django dan python
